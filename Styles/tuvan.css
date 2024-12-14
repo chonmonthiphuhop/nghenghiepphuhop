@@ -108,15 +108,14 @@ table{
      border: 1px solid;
 }
 .hienthiketqua {
-	margin-top: 50px;
-	margin-right: 480px;
+	margin-left: 100px;
+	margin-top: 80px;
     padding: 20px;
     background-color: #f0f0f0;
 	color: #0A5CCF;
     border-radius: 10px;
     text-align:justify;
 	width: 900px;
-	position: static;
 }
 .ketqua {
     font-size: 18px;
